@@ -5,7 +5,7 @@ A Streamlit chatbot powered by Groq's fast LLM inference. Pick a model, pick a p
  
 ## Features
 - Real-time chat interface built with Streamlit
-- Model selector (Llama 3.3, Llama 3.1, Gemma2 — all hosted on Groq)
+- Model selector (Llama 3.3, Llama 3.1, Gemma2 all hosted on Groq)
 - 6 personalities, each enforced through a dedicated system prompt
 - Session memory conversation context persists while you chat
 - Chat automatically clears when you switch personality
